@@ -183,7 +183,7 @@
     text-decoration: underline;
 }
 
-.boss {
+.last {
     border: 2px solid gray;
     display: grid;
     grid-template-columns: auto auto auto 100px;
@@ -192,16 +192,16 @@
     height: 310px;
     position: relative;
     top: 40px;
-    width: 100%;
+    width: 1350px;
 }
 
-.base {
+.box {
     height: 100px;
     background-color: aqua;
     position: relative;
 }
 
-.bhole {
+.box14 {
     background-color: rgb(218, 7, 7);
     grid-column: 1/5;
     grid-row: 1/2;
@@ -212,7 +212,7 @@
     color: white;
 }
 
-.mole {
+.box15 {
     margin-top: -12px;
     background-color: green;
     grid-column: 1/2;
@@ -225,7 +225,7 @@
     padding-top: 15px;
 }
 
-.sole {
+.box16 {
     margin-top: -12px;
     background-color: rgb(78, 157, 253);
     grid-column: 2/3;
@@ -238,7 +238,7 @@
     padding-top: 15px;
 }
 
-.dhole {
+.box17 {
     margin-top: -12px;
     background-color: rgb(9, 9, 193);
     grid-column: 3/4;
@@ -250,7 +250,7 @@
     padding-top: 15px;
 }
 
-.hale {
+.box18 {
     margin-top: -15px;
     grid-column: 1/4;
     grid-row: 3/4;
@@ -260,7 +260,7 @@
     font-weight: bolder;
 }
 
-.gale {
+.box19 {
     margin-top: -12px;
     height: 220px;
     background-color: black;
@@ -274,12 +274,12 @@ span {
     text-decoration: underline;
 }
 
-.blackk {
+.innerclass {
     position: relative;
     right: 10px;
 }
 
-.fale {
+.box20 {
     background-color: rgb(146, 242, 242);
     height: 20px;
     grid-column: 1/5;
